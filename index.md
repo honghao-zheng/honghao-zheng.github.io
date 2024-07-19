@@ -14,7 +14,7 @@ In the Spring of 2024, I was a visiting scholar at the Department of Economics o
 
 - **Empirical Industrial Organization:** Market Power, Productivity, Production Function Estimation
 - **Environmental/Energy Economics:** Emission Trading Schemes, Production-Emission Tradeoff
-- **Internation Economics:** Trade Dynamics, Uncertainty, FDI
+- **Internation Economics:** Trade Dynamics, Uncertainty, and FDI
 
 ## News
 
