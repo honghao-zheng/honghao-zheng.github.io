@@ -22,7 +22,7 @@ main:
     # image: ./assets/img/teaser_example.png
 
   - title: "Imperfect (Re)allocation in Imperfect Markets: Evidence from China's Pilot Carbon ETS"
-    authors: with <a href="https://sites.google.com/view/jovb/home">Johannes Van Biesebroeck</a>
+    authors: with <a href="https://sites.google.com/view/jovb/home" target="_blank">Johannes Van Biesebroeck</a>
     # conference_short: CVPR
     conference: Presented at IIOC 2023, EARIE 2023, APIOC 2023, CEPR Energy
     pdf: https://arxiv.org/pdf/2002.10211.pdf
