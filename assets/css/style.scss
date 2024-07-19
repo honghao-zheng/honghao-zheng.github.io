@@ -2,3 +2,8 @@
 ---
 
 @import "minimal-light";
+
+/* Custom style to ensure avatar image remains square */
+.image.avatar img {
+    border-radius: 0;
+}
