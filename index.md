@@ -27,4 +27,6 @@ In the Spring of 2024, I was a visiting scholar at the Department of Economics o
 
 {% include_relative _includes/workinprogress.md %}
 
+{% include_relative _includes/teaching.md %}
+
 {% include_relative _includes/services.md %}
