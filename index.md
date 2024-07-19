@@ -4,12 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at KU Leuven.
+I'm a fifth-year PhD candidate in Economics at KU Leuven <a href="https://sites.google.com/view/ioleuven/home">(IO@Leuven)</a>.
+
+I study how ﬁrms behave and operate in imperfect factor and product markets and the resulting effects.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Empirical Industrial Organization:** market power, productivity, production function estimation
+- **Environmental/Energy Economics:** emission trading schemes, emission-emission tradeoff
+- **Internation Economics:** trade dynamics, uncertainty, FDI
 
 ## News
 
