@@ -10,5 +10,5 @@
 <h4 style="margin:0 10px 0;">Master Thesis Supervision</h4>
 
 <ul style="margin:0 0 20px;">
-  <li>For Prof. Johannes Van Biesebroeck and Prof. Jan De Loecker, 2020-2023</li>
+  <li>For Prof. Johannes Van Biesebroeck and Prof. Jan De Loecker, 2020-2024</li>
 </ul>
