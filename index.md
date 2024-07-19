@@ -20,6 +20,6 @@ I am a Ph.D. student at KU Leuven.
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/workinprogress.md %}
 
 {% include_relative _includes/services.md %}
