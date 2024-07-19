@@ -25,12 +25,22 @@ main:
     # conference_short: CVPR
     conference: IIOC 2023, EARIE 2023, APIOC 2023
     pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Working Paper
-    image: ./assets/img/teaser_example.png
+    # image: ./assets/img/teaser_example.png
 
+  - title: "Death by Market Power and the Price of Coal in China"
+    authors: <strong>Job Market Paper</strong>
+    # conference_short: CVPR
+    # conference: IIOC 2023, EARIE 2023, APIOC 2023
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Draft Coming Soon!
+    # image: ./assets/img/teaser_example.png
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
