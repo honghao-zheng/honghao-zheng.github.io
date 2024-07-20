@@ -15,7 +15,7 @@ Find out more through my <a href="https://honghao-zheng.github.io/assets/files/c
 ## Research Interests
 
 - **Empirical Industrial Organization:** Market Power, Productivity, and Production Function Estimation
-- **Environmental/Energy Economics:** Emission Trading Schemes, Abatement Cost, and Production-Emission Tradeoff
+- **Environmental/Energy Economics:** Emission Trading Schemes, Abatement Cost, and Production-Emission Tradeoffs
 - **International Economics:** Trade Dynamics, FDI Entry, and Demand Uncertainty
 
 {% include_relative _includes/workingpapers.md %}
