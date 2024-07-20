@@ -2,6 +2,8 @@
 layout: homepage
 ---
 
+## Honghao Zheng
+
 I'm a fifth-year PhD candidate in Economics at KU Leuven <a href="https://sites.google.com/view/ioleuven/home" target="_blank">(IO@Leuven)</a>.
 
 I study how ﬁrms behave and operate in imperfect factor and product markets and the resulting effects.
