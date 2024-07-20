@@ -13,7 +13,7 @@ In the Spring of 2024, I was a visiting scholar at the Department of Economics o
 ## Research Interests
 
 - **Empirical Industrial Organization:** Market Power, Productivity, and Production Function Estimation
-- **Environmental/Energy Economics:** Emission Trading Schemes, and Production-Emission Tradeoff
+- **Environmental/Energy Economics:** Emission Trading Schemes and Production-Emission Tradeoff
 - **International Economics:** Trade Dynamics, FDI Entry, and Uncertainty
 
 {% include_relative _includes/workingpapers.md %}
