@@ -16,7 +16,7 @@ Find out more through my <a href="https://honghao-zheng.github.io/assets/files/c
 
 - **Empirical Industrial Organization:** Market Power, Productivity, and Production Function Estimation
 - **Environmental/Energy Economics:** Emission Trading Schemes and Production-Emission Tradeoff
-- **International Economics:** Trade Dynamics, FDI Entry, and Uncertainty
+- **International Economics:** Trade Dynamics, FDI Entry, and Demand Uncertainty
 
 {% include_relative _includes/workingpapers.md %}
 
