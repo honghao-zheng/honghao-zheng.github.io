@@ -15,7 +15,7 @@ main:
     authors: <strong>Job Market Paper</strong>
     # conference_short: CVPR
     # conference: IIOC 2023, EARIE 2023, APIOC 2023
-    pdf: assets/files/curriculum_vitae.pdf
+    pdf: https://honghao-zheng.github.io/assets/files/curriculum_vitae.pdf
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -27,7 +27,7 @@ main:
     authors: with <a href="https://sites.google.com/view/jovb/home" target="_blank">Johannes Van Biesebroeck</a>
     # conference_short: CVPR
     conference: Presented at IIOC 2023, EARIE 2023, APIOC 2023, CEPR Energy
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://honghao-zheng.github.io/assets/files/curriculum_vitae.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
