@@ -15,6 +15,7 @@ main:
     authors: <strong>Job Market Paper</strong>
     # conference_short: CVPR
     # conference: IIOC 2023, EARIE 2023, APIOC 2023
+    pdf: assets/files/curriculum_vitae.pdf
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
