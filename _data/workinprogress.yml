@@ -11,32 +11,43 @@ main:
   #   notes: Oral Presentation
   #   # image: ./assets/img/teaser_example.png
 
-  - title: "Conglomerate and Export Dynamics"
-    authors: with <a href="https://jm.zufe.edu.cn/info/1158/20888.htm" target="_blank">Jiewei Fang</a> and <a href="https://www.pmludwig.com/home" target="_blank">Philipp Ludwig</a>
-    # conference_short: MICCAI
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    notes: Draft Coming Soon!
+  # - title: "Conglomerate and Export Dynamics"
+  #   authors: with <a href="https://jm.zufe.edu.cn/info/1158/20888.htm" target="_blank">Jiewei Fang</a> and <a href="https://www.pmludwig.com/home" target="_blank">Philipp Ludwig</a>
+  #   # conference_short: MICCAI
+  #   # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  #   # pdf: https://arxiv.org/pdf/2306.00988.pdf
+  #   # code: https://github.com/MrGiovanni/ContinualLearning
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   # image: ./assets/img/teaser_example_2.png
+  #   notes: Draft Coming Soon!
 
-  - title: "Demand Uncertainty and TFP Dispersion: Evidence from German Coal Mining Industry"
-    authors: with <a href="https://sites.google.com/view/kaifischer/startseite" target="_blank">Kai Fischer</a>
-    # conference_short: MICCAI
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    notes: Extended Abstract
+  # - title: "Demand Uncertainty and TFP Dispersion: Evidence from German Coal Mining Industry"
+  #   authors: with <a href="https://sites.google.com/view/kaifischer/startseite" target="_blank">Kai Fischer</a>
+  #   # conference_short: MICCAI
+  #   # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  #   # pdf: https://arxiv.org/pdf/2306.00988.pdf
+  #   # code: https://github.com/MrGiovanni/ContinualLearning
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   # image: ./assets/img/teaser_example_2.png
+  #   notes: Extended Abstract
 
-  - title: "Financial Frictions, Skill Complementarity, and Labor Market Power: Evidence from Norway"
-    authors: with <a href="https://www.norges-bank.no/en/topics/Research/economists/Cao-Jin/" target="_blank">Jin Cao</a> and <a href="https://sites.google.com/view/tong-zhao/homepage/" target="_blank">Tong Zhao</a>
-    # conference_short: MICCAI
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    # notes: Extended Abstract
+  # - title: "Financial Frictions, Skill Complementarity, and Labor Market Power: Evidence from Norway"
+  #   authors: with <a href="https://www.norges-bank.no/en/topics/Research/economists/Cao-Jin/" target="_blank">Jin Cao</a> and <a href="https://sites.google.com/view/tong-zhao/homepage/" target="_blank">Tong Zhao</a>
+  #   # conference_short: MICCAI
+  #   # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  #   # pdf: https://arxiv.org/pdf/2306.00988.pdf
+  #   # code: https://github.com/MrGiovanni/ContinualLearning
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   # image: ./assets/img/teaser_example_2.png
+  #   # notes: Extended Abstract
+
+  - title: "Risk Aversion, Uncertainty, and FDI Entry"
+    authors: <strong>Solo Paper</strong>
+    # conference_short: CVPR
+    # conference: IIOC 2023, EARIE 2023, APIOC 2023
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Draft Available Upon Request
+    # image: ./assets/img/teaser_example.png
