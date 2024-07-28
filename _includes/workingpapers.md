@@ -42,8 +42,10 @@
 
       {% if link.abstract %} 
   <details class="author">
-    <summary>Abstract</summary>
-    <p>{{ link.abstract }}</p>
+    <summary style="cursor:pointer;">Abstract</summary>
+    <blockquote>
+      <p>{{ link.abstract }}</p>
+    </blockquote>
   </details>
       {% endif %}        
     </div>
