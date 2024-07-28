@@ -21,6 +21,15 @@
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
+      {% if link.abstract %} 
+  <details>
+    <summary style="cursor:pointer;">Abstract</summary>
+    <blockquote style="font-size:16px; font-style:normal; margin-top:0; margin-bottom:0; border-left:4px solid #e5e5e5; border-top:0; border-bottom:0; padding-left:5px; width:100%;">
+      <p style="margin-top:0; margin-bottom:0;">{{ link.abstract }}</p>
+    </blockquote>
+  </details>
+      {% endif %} 
+      
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       {% endif %}
@@ -38,16 +47,7 @@
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
-      {% endif %}   
-
-      {% if link.abstract %} 
-  <details>
-    <summary style="cursor:pointer;">Abstract</summary>
-    <blockquote style="font-size:16px; font-style:normal; margin-top:0; margin-bottom:0; border-left:4px solid #e5e5e5; border-top:0; border-bottom:0; padding-left:5px; width:100%;">
-      <p style="margin-top:0; margin-bottom:0;">{{ link.abstract }}</p>
-    </blockquote>
-  </details>
-      {% endif %}        
+      {% endif %}          
     </div>
   </div>
 </div>
