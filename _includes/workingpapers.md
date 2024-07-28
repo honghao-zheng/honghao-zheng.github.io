@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6f5ede15-938f-4877-83e0-2446ceadb2ec)<h2 id="publications" style="margin: 2px 0px 0px;">Working Papers</h2>
+<h2 id="publications" style="margin: 2px 0px 0px;">Working Papers</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -43,7 +43,7 @@
       {% if link.abstract %} 
   <details>
     <summary style="cursor:pointer;">Abstract</summary>
-    <blockquote style="font-size:16px; font-style:normal; margin-top:0; margin-bottom:0; border-left:4px solid #e5e5e5; border-bottom:0; padding-left:5px; width:100%;">
+    <blockquote style="font-size:16px; font-style:normal; margin-top:0; margin-bottom:0; border-left:4px solid #e5e5e5; border-top:0; border-bottom:0; padding-left:5px; width:100%;">
       <p style="margin-top:0; margin-bottom:0;">{{ link.abstract }}</p>
     </blockquote>
   </details>
