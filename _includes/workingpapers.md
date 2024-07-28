@@ -43,7 +43,7 @@
       {% if link.abstract %} 
   <details>
     <summary style="cursor:pointer;">Abstract</summary>
-    <blockquote style="font-size:16px; font-style:normal; margin-top:0; margin-bottom:0; border-left:4px solid; padding-left:5px; width:100%;">
+    <blockquote style="font-size:16px; font-style:normal; margin-top:0; margin-bottom:0; border-left:4px solid #e5e5e5; padding-left:5px; width:100%;">
       <p style="margin-top:0; margin-bottom:0;">{{ link.abstract }}</p>
     </blockquote>
   </details>
