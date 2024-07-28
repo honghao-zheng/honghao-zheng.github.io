@@ -22,7 +22,7 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Draft Coming Soon!
     # image: ./assets/img/teaser_example.png
-    abstract: abstractabstractabstractabstractabstractabstract
+    abstract: This paper evaluates the eﬀectiveness of both absolute- and intensity-type emission regulations in the context of carbon emission trading schemes (ETS) in China. The variation of heterogeneous regulations provides an exceptional opportunity to study how distinct phase economies can curtail emissions preferably. We employ a diﬀerence-in-diﬀerences empirical strategy to examine the behaviors of all margins of adjustment to ETS from energy consumption to power supply. We ﬁnd that, under imperfect markets and incomplete regulation, both types of ETS can induce carbon mitigation but with distinct tradeoﬀs. Aggregate impacts suggest overall annual reductions in energy consumption of 751×10<sup>4</sup>  and 866×10<sup>4</sup> tons of standard coal equivalent, or 9% and 23% of yearly energy consumption in ETS with absolute- and intensity-type emission regulations, respectively.
 
   - title: "Imperfect (Re)allocation in Imperfect Markets: Evidence from China's Pilot Carbon ETS"
     authors: with <a href="https://sites.google.com/view/jovb/home" target="_blank">Johannes Van Biesebroeck</a>
