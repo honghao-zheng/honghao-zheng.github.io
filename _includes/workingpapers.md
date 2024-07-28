@@ -41,7 +41,7 @@
       {% endif %}   
 
       {% if link.abstract %} 
-  <details class="btn-sm z-depth-0" style="font-size:12px;">
+  <details class="author">
     <summary>Abstract</summary>
     <p>{{ link.abstract }}</p>
   </details>
