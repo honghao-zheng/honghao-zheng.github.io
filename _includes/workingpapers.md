@@ -41,10 +41,8 @@
       {% endif %}
 
       {% if link.abstract %} 
-      <a href="{{ link.abstract }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
-          <div class="abstract hidden">
-            <p>{{ link.abstract }}</p>
-          </div>      
+      <div class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</div>
+        <p>{{ link.abstract }}</p>
       {% endif %}     
     </div>
   </div>
