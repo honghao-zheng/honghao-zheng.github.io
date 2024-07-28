@@ -43,7 +43,7 @@
       {% if link.abstract %} 
   <details>
     <summary style="cursor:pointer;">Abstract</summary>
-    <blockquote>
+    <blockquote style="font-size:15px;">
       <p>{{ link.abstract }}</p>
     </blockquote>
   </details>
