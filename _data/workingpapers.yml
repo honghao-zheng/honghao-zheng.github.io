@@ -22,6 +22,7 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Draft Coming Soon!
     # image: ./assets/img/teaser_example.png
+    abstract: abstractabstractabstractabstractabstractabstract
 
   - title: "Imperfect (Re)allocation in Imperfect Markets: Evidence from China's Pilot Carbon ETS"
     authors: with <a href="https://sites.google.com/view/jovb/home" target="_blank">Johannes Van Biesebroeck</a>
