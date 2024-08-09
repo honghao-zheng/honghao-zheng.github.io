@@ -10,7 +10,7 @@ I study how ﬁrms behave and operate in imperfect factor and product markets an
 
 In the Spring of 2024, I was a visiting scholar at the Department of Economics of <a href="https://econ.duke.edu/" target="_blank">Duke University</a>.
 
-Find out more through my <a href="https://honghao-zheng.github.io/assets/files/curriculum_vitae.pdf" target="_blank">CV</a> and <a href="https://honghao-zheng.github.io/" target="_blank">Job Market Paper</a>.
+[comment]: <> (Find out more through my <a href="https://honghao-zheng.github.io/assets/files/curriculum_vitae.pdf" target="_blank">CV</a> and <a href="https://honghao-zheng.github.io/" target="_blank">Job Market Paper</a>.)
 
 ## Research Interests
 
