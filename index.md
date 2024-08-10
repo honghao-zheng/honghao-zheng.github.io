@@ -12,11 +12,11 @@ In the Spring of 2024, I was a visiting scholar at the Department of Economics o
 
 [comment]: <> (Find out more through my <a href="https://honghao-zheng.github.io/assets/files/curriculum_vitae.pdf" target="_blank">CV</a> and <a href="https://honghao-zheng.github.io/" target="_blank">Job Market Paper</a>.)
 
-## Research Interests
+[comment]: <> (## Research Interests)
 
-- **Empirical Industrial Organization:** Market Power, Productivity, and Production Function Estimation
-- **Environmental/Energy Economics:** Emission Trading Schemes, Abatement Cost, and Production-Emission Tradeoffs
-- **International Economics:** Trade Dynamics, FDI Entry, and Demand Uncertainty
+[comment]: <> (- **Empirical Industrial Organization:** Market Power, Productivity, and Production Function Estimation)
+[comment]: <> (- **Environmental/Energy Economics:** Emission Trading Schemes, Abatement Cost, and Production-Emission Tradeoffs)
+[comment]: <> (- **International Economics:** Trade Dynamics, FDI Entry, and Demand Uncertainty)
 
 {% include_relative _includes/workingpapers.md %}
 
