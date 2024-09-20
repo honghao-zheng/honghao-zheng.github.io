@@ -22,10 +22,10 @@ I will be on the 2024-2025 job market.
 
 ## References
 
-- **<a href="https://sites.google.com/view/jovb/" target="_blank">Johannes Van Biesebroeck</a>** (jo.vanbiesebroeck@kuleuven.be)
-- **<a href="https://sites.google.com/site/deloeckerjan/" target="_blank">Jan De Loecker</a>** (jan.deloecker@kuleuven.be)
-- **<a href="https://sites.google.com/site/frankverbo/home" target="_blank">Frank Verboven</a>** (frank.verboven@kuleuven.be)
-- **<a href="https://sites.duke.edu/collardwexler/" target="_blank">Allan Collard-Wexler</a>** (allan.collard.wexler@duke.edu)
+- **<a href="https://sites.google.com/view/jovb/" target="_blank">Johannes Van Biesebroeck</a>** - jo.vanbiesebroeck@kuleuven.be
+- **<a href="https://sites.google.com/site/deloeckerjan/" target="_blank">Jan De Loecker</a>** - jan.deloecker@kuleuven.be
+- **<a href="https://sites.google.com/site/frankverbo/home" target="_blank">Frank Verboven</a>** - frank.verboven@kuleuven.be
+- **<a href="https://sites.duke.edu/collardwexler/" target="_blank">Allan Collard-Wexler</a>** - allan.collard.wexler@duke.edu
 
 {% include_relative _includes/workingpapers.md %}
 
