@@ -18,6 +18,13 @@ In the Spring of 2024, I was a visiting scholar at the Department of Economics o
 [comment]: <> (- **Environmental/Energy Economics:** Emission Trading Schemes, Abatement Cost, and Production-Emission Tradeoffs)
 [comment]: <> (- **International Economics:** Trade Dynamics, FDI Entry, and Demand Uncertainty)
 
+## References
+
+- **Johannes Van Biesebroeck** jo.vanbiesebroeck@kuleuven.be
+- **Jan De Loecker** jan.deloecker@kuleuven.be
+- **Frank Verboven** frank.verboven@kuleuven.be
+- **Allan Collard-Wexler** allan.collard.wexler@duke.edu
+
 {% include_relative _includes/workingpapers.md %}
 
 {% include_relative _includes/workinprogress.md %}
