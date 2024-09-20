@@ -20,7 +20,7 @@ In the Spring of 2024, I was a visiting scholar at the Department of Economics o
 
 ## References
 
-- **Johannes Van Biesebroeck** jo.vanbiesebroeck@kuleuven.be
+- **<a href="https://sites.google.com/view/jovb/" target="_blank">Johannes Van Biesebroeck</a>** jo.vanbiesebroeck@kuleuven.be
 - **Jan De Loecker** jan.deloecker@kuleuven.be
 - **Frank Verboven** frank.verboven@kuleuven.be
 - **Allan Collard-Wexler** allan.collard.wexler@duke.edu
