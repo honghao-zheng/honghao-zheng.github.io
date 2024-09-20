@@ -20,10 +20,10 @@ In the Spring of 2024, I was a visiting scholar at the Department of Economics o
 
 ## References
 
-- **<a href="https://sites.google.com/view/jovb/" target="_blank">Johannes Van Biesebroeck</a>** (jo.vanbiesebroeck@kuleuven.be)
-- **<a href="https://sites.google.com/site/deloeckerjan/" target="_blank">Jan De Loecker</a>** (jan.deloecker@kuleuven.be)
-- **<a href="https://sites.google.com/site/frankverbo/home" target="_blank">Frank Verboven</a>** (frank.verboven@kuleuven.be)
-- **<a href="https://sites.duke.edu/collardwexler/" target="_blank">Allan Collard-Wexler</a>** (allan.collard.wexler@duke.edu)
+- **<a href="https://sites.google.com/view/jovb/" target="_blank">Johannes Van Biesebroeck</a>** (<a href="mailto:jo.vanbiesebroeck@kuleuven.be">jo.vanbiesebroeck@kuleuven.be</a>)
+- **<a href="https://sites.google.com/site/deloeckerjan/" target="_blank">Jan De Loecker</a>** (<a href="mailto:jan.deloecker@kuleuven.be">jan.deloecker@kuleuven.be</a>)
+- **<a href="https://sites.google.com/site/frankverbo/home" target="_blank">Frank Verboven</a>** (<a href="mailto:frank.verboven@kuleuven.be">frank.verboven@kuleuven.be</a>)
+- **<a href="https://sites.duke.edu/collardwexler/" target="_blank">Allan Collard-Wexler</a>** (<a href="mailto:allan.collard.wexler@duke.edu">allan.collard.wexler@duke.edu</a>)
 
 {% include_relative _includes/workingpapers.md %}
 
