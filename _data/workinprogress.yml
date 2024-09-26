@@ -11,19 +11,19 @@ main:
   #   notes: Oral Presentation
   #   # image: ./assets/img/teaser_example.png
 
-  - title: "Death by Market Power and the Production-Safety Tradeoff in the Coal Mining Industry"
-  # - title: "Buyer Power and Technological Change with Production-Safety Tradeoffs: Evidence from the Coal Mining Industry"
-    authors: <strong>Job Market Paper</strong>
-    # conference_short: CVPR
-    # conference: IIOC 2023, EARIE 2023, APIOC 2023
-    # pdf: https://honghao-zheng.github.io/assets/files/curriculum_vitae.pdf
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Draft Coming Soon!
-    # image: ./assets/img/teaser_example.png
-    # abstract: This paper evaluates the eﬀectiveness of both absolute- and intensity-type emission regulations in the context of carbon emission trading schemes (ETS) in China. The variation of heterogeneous regulations provides an exceptional opportunity to study how distinct phase economies can curtail emissions preferably. We employ a diﬀerence-in-diﬀerences empirical strategy to examine the behaviors of all margins of adjustment to ETS from energy consumption to power supply. We ﬁnd that, under imperfect markets and incomplete regulation, both types of ETS can induce carbon mitigation but with distinct tradeoﬀs. Aggregate impacts suggest overall annual reductions in energy consumption of 751×10<sup>4</sup>  and 866×10<sup>4</sup> tons of standard coal equivalent, or 9% and 23% of yearly energy consumption in ETS with absolute- and intensity-type emission regulations, respectively.
+  # - title: "Death by Market Power and the Production-Safety Tradeoff in the Coal Mining Industry"
+  # # - title: "Buyer Power and Technological Change with Production-Safety Tradeoffs: Evidence from the Coal Mining Industry"
+  #   authors: <strong>Job Market Paper</strong>
+  #   # conference_short: CVPR
+  #   # conference: IIOC 2023, EARIE 2023, APIOC 2023
+  #   # pdf: https://honghao-zheng.github.io/assets/files/curriculum_vitae.pdf
+  #   # pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Draft Coming Soon!
+  #   # image: ./assets/img/teaser_example.png
+  #   # abstract: This paper evaluates the eﬀectiveness of both absolute- and intensity-type emission regulations in the context of carbon emission trading schemes (ETS) in China. The variation of heterogeneous regulations provides an exceptional opportunity to study how distinct phase economies can curtail emissions preferably. We employ a diﬀerence-in-diﬀerences empirical strategy to examine the behaviors of all margins of adjustment to ETS from energy consumption to power supply. We ﬁnd that, under imperfect markets and incomplete regulation, both types of ETS can induce carbon mitigation but with distinct tradeoﬀs. Aggregate impacts suggest overall annual reductions in energy consumption of 751×10<sup>4</sup>  and 866×10<sup>4</sup> tons of standard coal equivalent, or 9% and 23% of yearly energy consumption in ETS with absolute- and intensity-type emission regulations, respectively.
 
   # - title: "Trade Dynamics in the Ownership Network"
   #   authors: with <a href="https://jm.zufe.edu.cn/info/1158/20888.htm" target="_blank">Jiewei Fang</a> and <a href="https://www.pmludwig.com/home" target="_blank">Philipp Ludwig</a>
