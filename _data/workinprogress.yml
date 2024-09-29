@@ -25,25 +25,25 @@ main:
   #   # image: ./assets/img/teaser_example.png
   #   # abstract: This paper evaluates the eﬀectiveness of both absolute- and intensity-type emission regulations in the context of carbon emission trading schemes (ETS) in China. The variation of heterogeneous regulations provides an exceptional opportunity to study how distinct phase economies can curtail emissions preferably. We employ a diﬀerence-in-diﬀerences empirical strategy to examine the behaviors of all margins of adjustment to ETS from energy consumption to power supply. We ﬁnd that, under imperfect markets and incomplete regulation, both types of ETS can induce carbon mitigation but with distinct tradeoﬀs. Aggregate impacts suggest overall annual reductions in energy consumption of 751×10<sup>4</sup>  and 866×10<sup>4</sup> tons of standard coal equivalent, or 9% and 23% of yearly energy consumption in ETS with absolute- and intensity-type emission regulations, respectively.
 
-  # - title: "Trade Dynamics in the Ownership Network"
-  #   authors: with <a href="https://jm.zufe.edu.cn/info/1158/20888.htm" target="_blank">Jiewei Fang</a> and <a href="https://www.pmludwig.com/home" target="_blank">Philipp Ludwig</a>
-  #   # conference_short: MICCAI
-  #   # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-  #   # pdf: https://arxiv.org/pdf/2306.00988.pdf
-  #   # code: https://github.com/MrGiovanni/ContinualLearning
-  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
-  #   # image: ./assets/img/teaser_example_2.png
-  #   notes: Draft Coming Soon!
+  - title: "Demand (Un)certainty and Productivity: Evidence from German Coal Mining Industry"
+    authors: with <a href="https://sites.google.com/view/kaifischer/startseite" target="_blank">Kai Fischer</a>
+    # conference_short: MICCAI
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Extended Abstract
 
-  # - title: "Demand (Un)certainty and Productivity: Evidence from German Coal Mining Industry"
-  #   authors: with <a href="https://sites.google.com/view/kaifischer/startseite" target="_blank">Kai Fischer</a>
-  #   # conference_short: MICCAI
-  #   # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-  #   # pdf: https://arxiv.org/pdf/2306.00988.pdf
-  #   # code: https://github.com/MrGiovanni/ContinualLearning
-  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
-  #   # image: ./assets/img/teaser_example_2.png
-  #   notes: Extended Abstract
+  - title: "Trade Dynamics in the Ownership Network"
+    authors: with Jiewei Fang and <a href="https://www.pmludwig.com/home" target="_blank">Philipp Ludwig</a>
+    # conference_short: MICCAI
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Draft Coming Soon!
 
   # - title: "Financial Frictions, Skill Complementarity, and Labor Market Power: Evidence from Norway"
   #   authors: with <a href="https://www.norges-bank.no/en/topics/Research/economists/Cao-Jin/" target="_blank">Jin Cao</a> and <a href="https://sites.google.com/view/tong-zhao/homepage/" target="_blank">Tong Zhao</a>
