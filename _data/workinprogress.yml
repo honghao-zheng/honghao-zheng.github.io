@@ -36,25 +36,25 @@ main:
     # notes: Extended Abstract
     abstract: We examine the effects of demand uncertainty on productivity and technological adoption in the German coal mining industry, utilizing a unique demand-smoothing policy with downstream steel sector. We conduct a difference-in-differences investigation exploiting variations in coal mines' suitability to produce coke as input for downstream steel production. We estimate that demand certainty increases productivity by up to 10% and the share of mechanized production by 10 percentage points. Relying on a direct measure of demand uncertainty—canceled worker shifts due to insufficient demand, we find the policy significantly reduces coal mines' demand uncertainty.
 
-  - title: "Local Knowledge or Misallocation: Efficiency Costs of Discretion in Regulatory Enforcement"
-    authors: with <a href="https://www.yunyu-shu.com/" target="_blank">Yunyu Shu</a>, <a href="https://ruozi-song.com/" target="_blank">Ruozi Song</a>, and <a href="http://www.njuzhangbing.com/" target="_blank">Bing Zhang</a>
-    # conference_short: MICCAI
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    # notes: Extended Abstract
+  # - title: "Local Knowledge or Misallocation: Efficiency Costs of Discretion in Regulatory Enforcement"
+  #   authors: with <a href="https://www.yunyu-shu.com/" target="_blank">Yunyu Shu</a>, <a href="https://ruozi-song.com/" target="_blank">Ruozi Song</a>, and <a href="http://www.njuzhangbing.com/" target="_blank">Bing Zhang</a>
+  #   # conference_short: MICCAI
+  #   # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  #   # pdf: https://arxiv.org/pdf/2306.00988.pdf
+  #   # code: https://github.com/MrGiovanni/ContinualLearning
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   # image: ./assets/img/teaser_example_2.png
+  #   # notes: Extended Abstract
 
-  - title: "Concrete Collusion"
-    authors: with <a href="https://julianhidalgorodriguez.github.io/" target="_blank">Julian Hidalgo</a> and <a href="https://ruozi-song.com/" target="_blank">Ruozi Song</a>
-    # conference_short: MICCAI
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    # notes: Extended Abstract
+  # - title: "Concrete Collusion"
+  #   authors: with <a href="https://julianhidalgorodriguez.github.io/" target="_blank">Julian Hidalgo</a> and <a href="https://ruozi-song.com/" target="_blank">Ruozi Song</a>
+  #   # conference_short: MICCAI
+  #   # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  #   # pdf: https://arxiv.org/pdf/2306.00988.pdf
+  #   # code: https://github.com/MrGiovanni/ContinualLearning
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   # image: ./assets/img/teaser_example_2.png
+  #   # notes: Extended Abstract
 
   - title: "Financial Frictions, Skill Complementarity, and Labor Market Power: Evidence from Norway"
     authors: with <a href="https://www.norges-bank.no/en/topics/Research/economists/Cao-Jin/" target="_blank">Jin Cao</a> and <a href="https://sites.google.com/view/tong-zhao/homepage/" target="_blank">Tong Zhao</a>
