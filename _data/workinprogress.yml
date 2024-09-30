@@ -34,7 +34,7 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
     # notes: Extended Abstract
-      abstract: test
+    abstract: I examine how risk aversion affects firms’ foreign direct investment (FDI) entry dynamics when facing uncertainty. To do so, I introduce risk aversion into a two-period dynamic model, in which firms are uncertain about their foreign profitability before learning it by operating in each foreign market. The introduction of risk aversion enables me to more comprehensively reveal the real drivers of firms’ entry dynamics in different scenarios compared to previous literature. I show that, conditional on the FDI entry, risk aversion and market-specific uncertainty increase firms’ tendency to engage in sequential FDI, i.e., conducting exporting trials before the FDI entry. The main theoretical predictions of the model are corroborated by empirical evidence on Chineses outward FDI at the firm-level.    
 
   # - title: "Local Knowledge or Misallocation: Efficiency Costs of Discretion in Regulatory Enforcement"
   #   authors: with <a href="https://www.yunyu-shu.com/" target="_blank">Yunyu Shu</a>, <a href="https://ruozi-song.com/" target="_blank">Ruozi Song</a>, and <a href="http://www.njuzhangbing.com/" target="_blank">Bing Zhang</a>
