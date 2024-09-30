@@ -56,16 +56,6 @@ main:
   #   # image: ./assets/img/teaser_example_2.png
   #   # notes: Extended Abstract
 
-  - title: "Trade Dynamics in the Ownership Network"
-    authors: with Jiewei Fang and <a href="https://www.pmludwig.com/home" target="_blank">Philipp Ludwig</a>
-    # conference_short: MICCAI
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    # notes: Draft Coming Soon!
-
   # - title: "Financial Frictions, Skill Complementarity, and Labor Market Power: Evidence from Norway"
   #   authors: with <a href="https://www.norges-bank.no/en/topics/Research/economists/Cao-Jin/" target="_blank">Jin Cao</a> and <a href="https://sites.google.com/view/tong-zhao/homepage/" target="_blank">Tong Zhao</a>
   #   # conference_short: MICCAI
@@ -75,6 +65,16 @@ main:
   #   # bibtex: https://bib.yliu.me/MICCAI23.txt
   #   # image: ./assets/img/teaser_example_2.png
   #   # notes: Extended Abstract
+
+  - title: "Trade Dynamics in the Ownership Network"
+    authors: with Jiewei Fang and <a href="https://www.pmludwig.com/home" target="_blank">Philipp Ludwig</a>
+    # conference_short: MICCAI
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Draft Coming Soon!
 
   - title: "Risk Aversion, Uncertainty, and FDI Entry"
     authors: <strong>Solo Paper</strong>
