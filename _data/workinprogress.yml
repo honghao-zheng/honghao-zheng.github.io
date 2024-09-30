@@ -65,7 +65,7 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
     # notes: Extended Abstract
-    abstract: We estimate the impact of credit access on labor market power considering capital-skill complementarity, by investigating an intangible collateral reform in Norway. We take advantage of a wide range of unique Norwegian data regarding household tax returns, employer-employee relationships, firm-bank loan information, and firm balance sheets, along with a production function approach, to estimate heterogeneous labor market power over high- and low-skilled labor. The idea is to understand how imperfections in capital and labor input markets are related.
+    abstract: We estimate the impact of credit access on labor market power considering capital-skill complementarity, by investigating an intangible collateral reform in Norway. We take advantage of a wide range of novel Norwegian data regarding household tax returns, employer-employee relationships, firm-bank loan information, and firm balance sheets, along with a production function approach, to estimate heterogeneous labor market power over high- and low-skilled labor. The idea is to understand how imperfections in capital and labor input markets are related.
 
   - title: "Trade Dynamics in the Ownership Network"
     authors: with Jiewei Fang and <a href="https://www.pmludwig.com/home" target="_blank">Philipp Ludwig</a>
