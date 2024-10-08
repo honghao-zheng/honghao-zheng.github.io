@@ -1,9 +1,9 @@
-<h2 id="publications" style="margin: 2px 0px 0px;">Working Papers</h2>
+<h2 id="publications" style="margin: 2px 0px 0px;">Pre-Doctoral Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.workingpapers.main %}
+{% for link in site.data.predocpublications.main %}
 
 <li>
 <div class="pub-row">
