@@ -38,14 +38,14 @@ main:
     # image: ./assets/img/teaser_example.png
     abstract: We study how economies with distinct development phases can preferably curtail emissions by exploiting unique variations of heterogeneous regulations—absolute- and intensity-type emission regulations in the context of carbon emission trading schemes (ETS) in China. Using an extensive array of rich data, we employ a difference-in-differences empirical strategy to examine the behaviors of all primary margins of adjustment to ETS from the demand to the supply side of energy. We find that, under imperfect markets and incomplete regulation, both types of ETS can induce carbon mitigation but with distinct tradeoffs. Aggregate impacts suggest overall annual reductions in energy consumption by 23% and 9% of yearly energy consumption in ETS with absolute- and intensity-type emission regulations, respectively.
 
-  - title: "Risk Aversion, Uncertainty, and FDI Entry"
-    # authors: <strong>First-Year Paper</strong>
-    # conference_short: CVPR
-    # conference: IIOC 2023, EARIE 2023, APIOC 2023
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Draft Available Upon Request!
-    # image: ./assets/img/teaser_example.png
-    abstract: I examine how risk aversion affects firms’ foreign direct investment (FDI) entry dynamics when facing uncertainty. To do so, I introduce risk aversion into a two-period dynamic model, in which firms are uncertain about their foreign profitability before learning it by operating in each foreign market. The introduction of risk aversion enables me to more comprehensively reveal the real drivers of firms’ entry dynamics in different scenarios compared to previous literature. I show that, conditional on the FDI entry, risk aversion and market-specific uncertainty increase firms’ tendency to engage in sequential FDI, i.e., conducting exporting trials before the FDI entry. The main theoretical predictions of the model are corroborated by empirical evidence on Chineses outward FDI at the firm-level.
+  # - title: "Risk Aversion, Uncertainty, and FDI Entry"
+  #   # authors: <strong>First-Year Paper</strong>
+  #   # conference_short: CVPR
+  #   # conference: IIOC 2023, EARIE 2023, APIOC 2023
+  #   # pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Draft Available Upon Request!
+  #   # image: ./assets/img/teaser_example.png
+  #   abstract: I examine how risk aversion affects firms’ foreign direct investment (FDI) entry dynamics when facing uncertainty. To do so, I introduce risk aversion into a two-period dynamic model, in which firms are uncertain about their foreign profitability before learning it by operating in each foreign market. The introduction of risk aversion enables me to more comprehensively reveal the real drivers of firms’ entry dynamics in different scenarios compared to previous literature. I show that, conditional on the FDI entry, risk aversion and market-specific uncertainty increase firms’ tendency to engage in sequential FDI, i.e., conducting exporting trials before the FDI entry. The main theoretical predictions of the model are corroborated by empirical evidence on Chineses outward FDI at the firm-level.
