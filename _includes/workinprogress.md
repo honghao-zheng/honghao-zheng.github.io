@@ -6,7 +6,7 @@
 {% for link in site.data.workinprogress.main %}
 
 <li>
-<div class="pub-row">
+<div class="pub-row" style="margin-bottom: -20px;">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px; margin: 0px 0px 0rem;">
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
