@@ -1,6 +1,6 @@
 ## Teaching
 
-<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
+<h4 style="margin:2px 10px 0;">Teaching Assistant</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://onderwijsaanbod.kuleuven.be/syllabi/e/D0S09AE.htm#activetab=doelstellingen_idp1673312" target="_blank"><autocolor>B-KUL-D0S09A</autocolor></a>: Global Value Chain, 2021-2024</li>
