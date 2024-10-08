@@ -77,6 +77,7 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
     # notes: Draft Coming Soon!
+    abstract: 
 
   # - title: "Risk Aversion, Uncertainty, and FDI Entry"
   #   authors: <strong>First-Year Paper</strong>
