@@ -12,7 +12,7 @@ In the Spring of 2024, I was a visiting scholar at the Department of Economics o
 
 I will be on the 2024-2025 job market.
 
-[comment]: <> (Find out more through my <a href="https://honghao-zheng.github.io/assets/files/curriculum_vitae.pdf" target="_blank">CV</a> and <a href="https://honghao-zheng.github.io/" target="_blank">Job Market Paper</a>.)
+[comment]: <> (Find out more through my <a href="https://honghao-zheng.github.io/assets/files/CV_2024_1010_Honghao Zheng.pdf" target="_blank">CV</a> and <a href="https://honghao-zheng.github.io/assets/files/JMP.pdf" target="_blank">Job Market Paper</a>.)
 
 [comment]: <> (## Research Interests)
 
