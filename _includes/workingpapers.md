@@ -7,14 +7,6 @@
 
 <li>
 <div class="pub-row" style="margin-bottom: 30px;border: 1px solid transparent;">
-    {% if link.abstract %} 
-  <details>
-    <summary style="cursor:pointer;">Abstract</summary>
-    <blockquote style="font-size:16px; font-style:normal; margin-top:0; margin-bottom:0; border-left:4px solid #e5e5e5; border-top:0; border-bottom:0; padding-left:5px; width:100%;">
-      <p style="margin-top:0; margin-bottom:0;">{{ link.abstract }}</p>
-    </blockquote>
-  </details>
-    {% endif %}
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px; margin: 0px 0px 0em;">
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
@@ -28,7 +20,15 @@
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
-    <div class="links"> 
+    <div class="links">
+    {% if link.abstract %} 
+  <details>
+    <summary style="cursor:pointer;">Abstract</summary>
+    <blockquote style="font-size:16px; font-style:normal; margin-top:0; margin-bottom:0; border-left:4px solid #e5e5e5; border-top:0; border-bottom:0; padding-left:5px; width:100%;">
+      <p style="margin-top:0; margin-bottom:0;">{{ link.abstract }}</p>
+    </blockquote>
+  </details>
+    {% endif %} 
       
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
