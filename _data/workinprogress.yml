@@ -46,16 +46,16 @@ main:
   #   # image: ./assets/img/teaser_example_2.png
   #   # notes: Extended Abstract
 
-  # - title: "Concrete Collusion"
-  #   authors: with <a href="https://julianhidalgorodriguez.github.io/" target="_blank">Julian Hidalgo</a> and <a href="https://ruozi-song.com/" target="_blank">Ruozi Song</a>
-  #   # conference_short: MICCAI
-  #   # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-  #   # pdf: https://arxiv.org/pdf/2306.00988.pdf
-  #   # code: https://github.com/MrGiovanni/ContinualLearning
-  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
-  #   # image: ./assets/img/teaser_example_2.png
-  #   # notes: Extended Abstract
-  #   abstract: We study the consequences of market power on both consumer surplus and environmental benefits in China's cement industry, where collusive producer behavior is frequently alleged. We develop a structural framework combining demand and production approaches to identify unobserved conduct. Using the estimated structural parameters, we quantify the unintended environmental benefits of collusion and design corresponding environmental policies conditional on different objective functions of the government.
+  - title: "Concrete Collusion"
+    authors: with <a href="https://julianhidalgorodriguez.github.io/" target="_blank">Julian Hidalgo</a> and <a href="https://ruozi-song.com/" target="_blank">Ruozi Song</a>
+    # conference_short: MICCAI
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Extended Abstract
+    abstract: We study the consequences of market power on both consumer surplus and environmental benefits in China's cement industry, where collusive producer behavior is frequently alleged. We develop a structural framework combining demand and production approaches to identify unobserved conduct. Using the estimated structural parameters, we quantify the unintended environmental benefits of collusion and design corresponding environmental policies conditional on different objective functions of the government.
 
   # - title: "Financial Frictions, Skill Complementarity, and Labor Market Power: Evidence from Norway"
   - title: "Financial Frictions, Skill Complementarity, and Labor Market Power"
