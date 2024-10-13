@@ -55,7 +55,7 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
     # notes: Extended Abstract
-  abstract: We study the consequences of market power on both consumer surplus and environmental benefits in China's cement industry, where collusive producer behavior is frequently alleged. We develop a structural framework combining demand and production approaches to identify unobserved conduct. Using the estimated structural parameters, we quantify the unintended environmental benefits of collusion and design corresponding environmental policies conditional on different objective functions of the government.
+    abstract: We study the consequences of market power on both consumer surplus and environmental benefits in China's cement industry, where collusive producer behavior is frequently alleged. We develop a structural framework combining demand and production approaches to identify unobserved conduct. Using the estimated structural parameters, we quantify the unintended environmental benefits of collusion and design corresponding environmental policies conditional on different objective functions of the government.
 
   # - title: "Financial Frictions, Skill Complementarity, and Labor Market Power: Evidence from Norway"
   - title: "Financial Frictions, Skill Complementarity, and Labor Market Power"
