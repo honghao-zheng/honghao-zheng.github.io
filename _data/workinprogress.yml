@@ -57,8 +57,8 @@ main:
     # notes: Extended Abstract
     abstract: We study the consequences of market power on both consumer surplus and environmental benefits in China's cement industry, where collusive producer behavior is frequently alleged. We develop a structural framework combining demand and production approaches to identify unobserved conduct. Using the estimated structural parameters, we quantify the unintended environmental benefits of collusion and design corresponding environmental policies conditional on different objective functions of the government.
 
-  # - title: "Financial Frictions, Skill Complementarity, and Labor Market Power: Evidence from Norway"
-  - title: "Financial Frictions, Skill Complementarity, and Labor Market Power"
+  - title: "Financial Frictions, Skill Complementarity, and Labor Market Power: Evidence from Norway"
+  # - title: "Financial Frictions, Skill Complementarity, and Labor Market Power"
     authors: with <a href="https://www.norges-bank.no/en/topics/Research/economists/Cao-Jin/" target="_blank">Jin Cao</a> and <a href="https://sites.google.com/view/tong-zhao/homepage/" target="_blank">Tong Zhao</a>
     # conference_short: MICCAI
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
