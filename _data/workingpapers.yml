@@ -10,7 +10,8 @@ main:
   #   image: ./assets/img/teaser_example_2.png
   #   notes: Early Accept
 
-  - title: "Death by Market Power and the Production-Safety Tradeoff in the Coal Mining Industry"
+  # - title: "Death by Market Power and the Production-Safety Tradeoff in the Coal Mining Industry"
+  - title: "Death by Market Power: The Production-Safety Tradeoff in the Coal Mining Industry"
   # - title: "Buyer Power and Technological Change with Production-Safety Tradeoffs: Evidence from the Coal Mining Industry"
     authors: <strong>Job Market Paper</strong>
     # conference_short: CVPR
