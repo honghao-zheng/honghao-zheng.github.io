@@ -10,7 +10,7 @@ I study how ﬁrms behave and operate in imperfect factor and product markets an
 
 In the Spring of 2024, I was a visiting scholar at the Department of Economics of <a href="https://econ.duke.edu/" target="_blank">Duke University</a>.
 
-I will be on the 2024-2025 job market.
+I will be on the 2024-2025 academic job market.
 
 [comment]: <> (Find out more through my <a href="https://honghao-zheng.github.io/assets/files/CV_Honghao Zheng.pdf" target="_blank">CV</a> and <a href="https://honghao-zheng.github.io/assets/files/JMP.pdf" target="_blank">Job Market Paper</a>.)
 
