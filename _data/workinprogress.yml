@@ -25,17 +25,6 @@ main:
   #   # image: ./assets/img/teaser_example.png
   #   # abstract: This paper evaluates the eﬀectiveness of both absolute- and intensity-type emission regulations in the context of carbon emission trading schemes (ETS) in China. The variation of heterogeneous regulations provides an exceptional opportunity to study how distinct phase economies can curtail emissions preferably. We employ a diﬀerence-in-diﬀerences empirical strategy to examine the behaviors of all margins of adjustment to ETS from energy consumption to power supply. We ﬁnd that, under imperfect markets and incomplete regulation, both types of ETS can induce carbon mitigation but with distinct tradeoﬀs. Aggregate impacts suggest overall annual reductions in energy consumption of 751×10<sup>4</sup>  and 866×10<sup>4</sup> tons of standard coal equivalent, or 9% and 23% of yearly energy consumption in ETS with absolute- and intensity-type emission regulations, respectively.
 
-  - title: "Demand (Un)certainty and Productivity: Evidence from German Coal Mining Industry"
-    authors: with <a href="https://sites.google.com/view/kaifischer/startseite" target="_blank">Kai Fischer</a>
-    # conference_short: MICCAI
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    # notes: Extended Abstract
-    abstract: We examine the effects of demand uncertainty on productivity and technological adoption in the German coal mining industry, utilizing a unique demand-smoothing policy with downstream steel sector. We conduct a difference-in-differences investigation exploiting variations in coal mines' suitability to produce coke as input for downstream steel production. We estimate that demand certainty increases productivity by up to 10% and the share of mechanized production by 10 percentage points. Relying on a direct measure of demand uncertainty—canceled worker shifts due to insufficient demand, we find the policy significantly reduces coal mines' demand uncertainty.
-
   # - title: "Local Knowledge or Misallocation: Efficiency Costs of Discretion in Regulatory Enforcement"
   #   authors: with <a href="https://www.yunyu-shu.com/" target="_blank">Yunyu Shu</a>, <a href="https://ruozi-song.com/" target="_blank">Ruozi Song</a>, and <a href="http://www.njuzhangbing.com/" target="_blank">Bing Zhang</a>
   #   # conference_short: MICCAI
@@ -56,6 +45,17 @@ main:
     # image: ./assets/img/teaser_example_2.png
     # notes: Extended Abstract
     abstract: We study the consequences of market power on both consumer surplus and environmental benefits in China's cement industry, where collusive producer behavior is frequently alleged. We develop a structural framework combining demand and production approaches to identify unobserved conduct. Using the estimated structural parameters, we quantify the unintended environmental benefits of collusion and design corresponding environmental policies conditional on different objective functions of the government.
+
+  - title: "Demand (Un)certainty and Productivity: Evidence from German Coal Mining Industry"
+    authors: with <a href="https://sites.google.com/view/kaifischer/startseite" target="_blank">Kai Fischer</a>
+    # conference_short: MICCAI
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Extended Abstract
+    abstract: We examine the effects of demand uncertainty on productivity and technological adoption in the German coal mining industry, utilizing a unique demand-smoothing policy with downstream steel sector. We conduct a difference-in-differences investigation exploiting variations in coal mines' suitability to produce coke as input for downstream steel production. We estimate that demand certainty increases productivity by up to 10% and the share of mechanized production by 10 percentage points. Relying on a direct measure of demand uncertainty—canceled worker shifts due to insufficient demand, we find the policy significantly reduces coal mines' demand uncertainty.
 
   # - title: "Financial Frictions, Skill Complementarity, and Labor Market Power: Evidence from Norway"
   - title: "Financial Frictions, Skill Complementarity, and Labor Market Power"
