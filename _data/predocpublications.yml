@@ -49,31 +49,31 @@ main:
     # image: ./assets/img/teaser_example.png
     # abstract: We study how economies with distinct development phases can preferably curtail emissions by exploiting unique variations of heterogeneous regulations—absolute- and intensity-type emission regulations in the context of carbon emission trading schemes (ETS) in China. Using an extensive array of rich data, we employ a difference-in-differences empirical strategy to examine the behaviors of all primary margins of adjustment to ETS from the demand to the supply side of energy. We find that, under imperfect markets and incomplete regulation, both types of ETS can induce carbon mitigation but with distinct tradeoffs. Aggregate impacts suggest overall annual reductions in energy consumption by 23% and 9% of yearly energy consumption in ETS with absolute- and intensity-type emission regulations, respectively.
 
-  - title: "Forecasting the Residential Solar Energy Consumption of the United States"
-    authors: with Lingyang He and Zhengxin Wang
-    # conference_short: CVPR
-    conference: <strong>Energy</strong>, 2019.
-    pdf: https://www.sciencedirect.com/science/article/pii/S0360544219306036
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Working Paper
-    # notes: New Draft Coming Soon!
-    # image: ./assets/img/teaser_example.png
-    # abstract: We study how economies with distinct development phases can preferably curtail emissions by exploiting unique variations of heterogeneous regulations—absolute- and intensity-type emission regulations in the context of carbon emission trading schemes (ETS) in China. Using an extensive array of rich data, we employ a difference-in-differences empirical strategy to examine the behaviors of all primary margins of adjustment to ETS from the demand to the supply side of energy. We find that, under imperfect markets and incomplete regulation, both types of ETS can induce carbon mitigation but with distinct tradeoffs. Aggregate impacts suggest overall annual reductions in energy consumption by 23% and 9% of yearly energy consumption in ETS with absolute- and intensity-type emission regulations, respectively.
+  # - title: "Forecasting the Residential Solar Energy Consumption of the United States"
+  #   authors: with Lingyang He and Zhengxin Wang
+  #   # conference_short: CVPR
+  #   conference: <strong>Energy</strong>, 2019.
+  #   pdf: https://www.sciencedirect.com/science/article/pii/S0360544219306036
+  #   # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # notes: Working Paper
+  #   # notes: New Draft Coming Soon!
+  #   # image: ./assets/img/teaser_example.png
+  #   # abstract: We study how economies with distinct development phases can preferably curtail emissions by exploiting unique variations of heterogeneous regulations—absolute- and intensity-type emission regulations in the context of carbon emission trading schemes (ETS) in China. Using an extensive array of rich data, we employ a difference-in-differences empirical strategy to examine the behaviors of all primary margins of adjustment to ETS from the demand to the supply side of energy. We find that, under imperfect markets and incomplete regulation, both types of ETS can induce carbon mitigation but with distinct tradeoffs. Aggregate impacts suggest overall annual reductions in energy consumption by 23% and 9% of yearly energy consumption in ETS with absolute- and intensity-type emission regulations, respectively.
 
-  - title: "Predicting the Capital Intensity of the New Energy Industry in China Using a New Hybrid Grey Model"
-    authors: with Qin Li and Zhengxin Wang
-    # conference_short: CVPR
-    conference: <strong>Computers & Industrial Engineering</strong>, 2018.
-    pdf: https://www.sciencedirect.com/science/article/pii/S0360835218304820
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Working Paper
-    # notes: New Draft Coming Soon!
-    # image: ./assets/img/teaser_example.png
-    # abstract: We study how economies with distinct development phases can preferably curtail emissions by exploiting unique variations of heterogeneous regulations—absolute- and intensity-type emission regulations in the context of carbon emission trading schemes (ETS) in China. Using an extensive array of rich data, we employ a difference-in-differences empirical strategy to examine the behaviors of all primary margins of adjustment to ETS from the demand to the supply side of energy. We find that, under imperfect markets and incomplete regulation, both types of ETS can induce carbon mitigation but with distinct tradeoffs. Aggregate impacts suggest overall annual reductions in energy consumption by 23% and 9% of yearly energy consumption in ETS with absolute- and intensity-type emission regulations, respectively.
+  # - title: "Predicting the Capital Intensity of the New Energy Industry in China Using a New Hybrid Grey Model"
+  #   authors: with Qin Li and Zhengxin Wang
+  #   # conference_short: CVPR
+  #   conference: <strong>Computers & Industrial Engineering</strong>, 2018.
+  #   pdf: https://www.sciencedirect.com/science/article/pii/S0360835218304820
+  #   # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # notes: Working Paper
+  #   # notes: New Draft Coming Soon!
+  #   # image: ./assets/img/teaser_example.png
+  #   # abstract: We study how economies with distinct development phases can preferably curtail emissions by exploiting unique variations of heterogeneous regulations—absolute- and intensity-type emission regulations in the context of carbon emission trading schemes (ETS) in China. Using an extensive array of rich data, we employ a difference-in-differences empirical strategy to examine the behaviors of all primary margins of adjustment to ETS from the demand to the supply side of energy. We find that, under imperfect markets and incomplete regulation, both types of ETS can induce carbon mitigation but with distinct tradeoffs. Aggregate impacts suggest overall annual reductions in energy consumption by 23% and 9% of yearly energy consumption in ETS with absolute- and intensity-type emission regulations, respectively.
 
   - title: "Decomposition of the Factors Influencing Export Fluctuation in China's New Energy Industry Based on a Constant Market Share Model"
     authors: with Tong Jin, Lingling Pei, and Zhengxin Wang
