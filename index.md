@@ -6,7 +6,7 @@ layout: homepage
 
 I'm a PhD candidate in Economics at KU Leuven <a href="https://sites.google.com/view/ioleuven/home" target="_blank">(IO@Leuven)</a>. I work in the fields of **Industrial Organization**, **Environmental Economics**, and **Development Economics**.
 
-I develop and estimate structural models to investigate how firms behave and operate under imperfect factor and product markets with a particular focus on the consequence of market power.
+I develop and estimate structural models to investigate how firms behave and operate under imperfect factor and product markets with a particular focus on the consequences of market power.
 
 In the Spring of 2024, I was a visiting scholar at the Department of Economics at <a href="https://econ.duke.edu/" target="_blank">Duke University</a>.
 
