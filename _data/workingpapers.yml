@@ -15,7 +15,7 @@ main:
   # - title: "Buyer Power and Technological Change with Production-Safety Tradeoffs: Evidence from the Coal Mining Industry"
     authors: <strong>Job Market Paper</strong>
     # conference_short: CVPR
-    # conference: IIOC 2023, EARIE 2023, APIOC 2023
+    conference: Presented at NUS AESW, CEPR-IO Gathering, Duke Public/IO Lunch, KU Leuven IO Seminar
     pdf: https://honghao-zheng.github.io/assets/files/JMP.pdf
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
