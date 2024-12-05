@@ -46,6 +46,17 @@ main:
     # notes: Extended Abstract
     abstract: We study the consequences of market power on both consumer surplus and environmental benefits in China's cement industry, where collusive producer behavior is frequently alleged. We develop a structural framework combining demand and production approaches to identify unobserved conduct. Using the estimated structural parameters, we quantify the unintended environmental benefits of collusion and design corresponding environmental policies conditional on different objective functions of the government.
 
+  - title: "Embracing the Sun: Subsidized Entry of Solar Power Plants in China"
+    authors: with Wenquan Hu
+    # conference_short: MICCAI
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Draft Coming Soon!
+    abstract: We use unique data on solar power installation and generation across China to study and understand the subsidized entry of renewable power facilities from an industrial policy perspective. The production subsidy for solar power generation differs across regions with different solar potentials and declines unevenly over time, leading to heterogeneous incentives for solar power entry. In this paper, we ask how to maximize solar power entry while minimizing public subsidy expenses. The findings provide a new perspective on industrial policy related to solar power adoption and energy transition.
+
   - title: "Demand (Un)certainty and Productivity: Evidence from German Coal Mining Industry"
     authors: with <a href="https://sites.google.com/view/kaifischer/startseite" target="_blank">Kai Fischer</a>
     # conference_short: MICCAI
@@ -80,16 +91,16 @@ main:
   #   # notes: Draft Coming Soon!
   #   # abstract: test
 
-  - title: "Embracing the Sun: Subsidized Entry of Solar Power Plants in China"
-    authors: with Wenquan Hu
-    # conference_short: MICCAI
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    # notes: Draft Coming Soon!
-    abstract: We use unique data on solar power installation and generation across China to study and understand the subsidized entry of renewable power facilities from an industrial policy perspective. The production subsidy for solar power generation differs across regions with different solar potentials and declines unevenly over time, leading to heterogeneous incentives for solar power entry. In this paper, we ask how to maximize solar power entry while minimizing public subsidy expenses. The findings provide a new perspective on industrial policy related to solar power adoption and energy transition.
+  # - title: "Embracing the Sun: Subsidized Entry of Solar Power Plants in China"
+  #   authors: with Wenquan Hu
+  #   # conference_short: MICCAI
+  #   # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  #   # pdf: https://arxiv.org/pdf/2306.00988.pdf
+  #   # code: https://github.com/MrGiovanni/ContinualLearning
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   # image: ./assets/img/teaser_example_2.png
+  #   # notes: Draft Coming Soon!
+  #   abstract: We use unique data on solar power installation and generation across China to study and understand the subsidized entry of renewable power facilities from an industrial policy perspective. The production subsidy for solar power generation differs across regions with different solar potentials and declines unevenly over time, leading to heterogeneous incentives for solar power entry. In this paper, we ask how to maximize solar power entry while minimizing public subsidy expenses. The findings provide a new perspective on industrial policy related to solar power adoption and energy transition.
 
   # - title: "Risk Aversion, Uncertainty, and FDI Entry"
   #   authors: <strong>First-Year Paper</strong>
