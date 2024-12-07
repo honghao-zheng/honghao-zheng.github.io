@@ -30,7 +30,7 @@ main:
   - title: "Imperfect (Re)allocation in Imperfect Markets: Evidence from China's Pilot Carbon ETS"
     authors: with <a href="https://sites.google.com/view/jovb/home" target="_blank">Johannes Van Biesebroeck</a>
     # conference_short: CVPR
-    conference: Presented at IIOC 2023 (Rising Star), EARIE 2023, APIOC 2023, BEED 2024, CEPR-NBB, RIDGE 2024, Kiel-Goettingen-CEPR, Copenhagen Business School, IMT Lucca, University of Glasgow
+    conference: Presented at IIOC 2023 (Rising Star), EARIE 2023, APIOC 2023, BEED 2024, CEPR-NBB, RIDGE 2024, Kiel-Goettingen-CEPR, Copenhagen Business School, IMT Lucca, University of Glasgow, CEPR STEG*
     pdf: https://honghao-zheng.github.io/assets/files/ETS.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
