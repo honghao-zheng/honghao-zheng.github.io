@@ -4,7 +4,7 @@ layout: homepage
 
 ## Honghao Zheng
 
-I'm a PhD candidate in Economics at KU Leuven <a href="https://sites.google.com/view/ioleuven/home" target="_blank">(IO@Leuven)</a>. I work in the fields of **Industrial Organization**, **Environmental Economics**, and **Development Economics**.
+I'm a PhD candidate in Economics at KU Leuven <a href="https://sites.google.com/view/ioleuven/home" target="_blank">(IO@Leuven)</a>. I work in the fields of **Industrial Organization**, **Energy/Environmental Economics**, and **Development Economics**.
 
 I develop and estimate structural models to investigate how firms behave and operate under imperfect factor and product markets with a particular focus on the consequences of market power.
 
