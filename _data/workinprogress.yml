@@ -90,7 +90,7 @@ main:
   #   # bibtex: https://bib.yliu.me/MICCAI23.txt
   #   # image: ./assets/img/teaser_example_2.png
   #   # notes: Draft Coming Soon!
-  #   # abstract: test
+    abstract: “”
 
   # - title: "Embracing the Sun: Subsidized Entry of Solar Power Plants in China"
   #   authors: with Wenquan Hu
