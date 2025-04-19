@@ -40,6 +40,18 @@ main:
     # image: ./assets/img/teaser_example.png
     abstract: We study how economies with distinct development phases can preferably curtail emissions. We exploit unique variations of heterogeneous regulations—absolute- and intensity-type emission regulations in the context of carbon emission trading schemes (ETS) in China. Using an extensive array of rich data, we employ a difference-in-differences empirical strategy to examine the behaviors of all primary margins of adjustment to ETS from the demand to the supply side of energy. We find that, under imperfect markets and incomplete regulation, both types of ETS can induce carbon mitigation but with distinct tradeoffs. Aggregate impacts suggest overall annual reductions in energy consumption by 23% and 9% of yearly energy consumption in ETS with absolute- and intensity-type emission regulations, respectively.
 
+  - title: "Competition, Management, and Productivity: Evidence from the German Coal Mining Industry"
+    authors: with <a href="https://sites.google.com/view/kaifischer/startseite" target="_blank">Kai Fischer</a>
+    # conference_short: MICCAI
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    notes: Draft Available Upon Request!
+    abstract: We examine the role of management practices as an underlying mechanism to increase establishment-level productivity under reduced import competition due to an industrial policy in the German coal mining industry. The policy forced the downstream German steel sector to buy coal and coke exclusively from domestic coal mines, effectively reducing import competition and ensuring stable demand for coal mines with coking plants. We employ a difference-in-differences empirical strategy to track coal mines with heterogeneous shock exposure by exploiting exogenous variation in coal mines' suitability in coke production. We show that the policy increased quantity-based productivity (TFPQ) by around 6% and decreased marginal costs by 5%. Also, the vertically integrated cokeries improve TFPQ by around 20%. However, the anti-competitive effect of the industrial policy led coal mines to raise markups instead of completely passing on the efficiency gains to consumers. Using rich employer-employee-matched data on managers, we show that management practices to reduce demand uncertainty and promote mechanization were essential in explaining these efficiency gains under reduced import competition.
+
+
   # - title: "Risk Aversion, Uncertainty, and FDI Entry"
   #   # authors: <strong>First-Year Paper</strong>
   #   # conference_short: CVPR
