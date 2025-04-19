@@ -10,8 +10,6 @@ I develop and estimate structural models to investigate how firms behave and ope
 
 In the Spring of 2024, I was a visiting scholar at the Department of Economics at <a href="https://econ.duke.edu/" target="_blank">Duke University</a>.
 
-I am on the 2024-2025 academic job market.
-
 Find out more through my <a href="https://honghao-zheng.github.io/assets/files/CV_Honghao Zheng.pdf" target="_blank">CV</a> and <a href="https://honghao-zheng.github.io/assets/files/JMP.pdf" target="_blank">Job Market Paper</a>.
 
 [comment]: <> (Find out more through my <a href="https://honghao-zheng.github.io/assets/files/CV_Honghao Zheng.pdf" target="_blank">CV</a> and <a href="https://honghao-zheng.github.io/assets/files/JMP.pdf" target="_blank">Job Market Paper</a>.)
