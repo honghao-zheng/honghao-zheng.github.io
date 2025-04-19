@@ -57,16 +57,16 @@ main:
     # notes: Draft Coming Soon!
     abstract: We use unique data on solar power installation and generation across China to study and understand the subsidized entry of renewable power facilities from an industrial policy perspective. The production subsidy for solar power generation differs across regions with different solar potentials and declines unevenly over time, leading to heterogeneous incentives for solar power entry. In this paper, we ask how to maximize solar power entry while minimizing public subsidy expenses. The findings provide a new perspective on industrial policy related to solar power adoption and energy transition.
 
-  - title: "Competition, Management, and Productivity: Evidence from the German Coal Mining Industry"
-    authors: with <a href="https://sites.google.com/view/kaifischer/startseite" target="_blank">Kai Fischer</a>
-    # conference_short: MICCAI
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    # notes: Extended Abstract
-    abstract: We examine the role of management practices as an underlying mechanism to increase establishment-level productivity under reduced import competition due to an industrial policy in the German coal mining industry. The policy forced the downstream German steel sector to buy coal and coke exclusively from domestic coal mines, effectively reducing import competition and ensuring stable demand for coal mines with coking plants. We employ a difference-in-differences empirical strategy to track coal mines with heterogeneous shock exposure by exploiting exogenous variation in coal mines' suitability in coke production. We show that the policy increased quantity-based productivity (TFPQ) by around 6% and decreased marginal costs by 5%. Also, the vertically integrated cokeries improve TFPQ by around 20%. However, the anti-competitive effect of the industrial policy led coal mines to raise markups instead of completely passing on the efficiency gains to consumers. Using rich employer-employee-matched data on managers, we show that management practices to reduce demand uncertainty and promote mechanization were essential in explaining these efficiency gains under reduced import competition.
+  # - title: "Competition, Management, and Productivity: Evidence from the German Coal Mining Industry"
+  #   authors: with <a href="https://sites.google.com/view/kaifischer/startseite" target="_blank">Kai Fischer</a>
+  #   # conference_short: MICCAI
+  #   # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  #   # pdf: https://arxiv.org/pdf/2306.00988.pdf
+  #   # code: https://github.com/MrGiovanni/ContinualLearning
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   # image: ./assets/img/teaser_example_2.png
+  #   # notes: Extended Abstract
+  #   abstract: We examine the role of management practices as an underlying mechanism to increase establishment-level productivity under reduced import competition due to an industrial policy in the German coal mining industry. The policy forced the downstream German steel sector to buy coal and coke exclusively from domestic coal mines, effectively reducing import competition and ensuring stable demand for coal mines with coking plants. We employ a difference-in-differences empirical strategy to track coal mines with heterogeneous shock exposure by exploiting exogenous variation in coal mines' suitability in coke production. We show that the policy increased quantity-based productivity (TFPQ) by around 6% and decreased marginal costs by 5%. Also, the vertically integrated cokeries improve TFPQ by around 20%. However, the anti-competitive effect of the industrial policy led coal mines to raise markups instead of completely passing on the efficiency gains to consumers. Using rich employer-employee-matched data on managers, we show that management practices to reduce demand uncertainty and promote mechanization were essential in explaining these efficiency gains under reduced import competition.
 
   # - title: "Financial Frictions, Skill Complementarity, and Labor Market Power: Evidence from Norway"
   # - title: "Financial Frictions, Skill Complementarity, and Labor Market Power"
