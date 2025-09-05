@@ -4,11 +4,11 @@ layout: homepage
 
 ## Honghao Zheng
 
-I'm a PhD candidate in Economics at KU Leuven <a href="https://sites.google.com/view/ioleuven/home" target="_blank">(IO@Leuven)</a>. I work in the fields of **Industrial Organization**, **Energy/Environmental Economics**, and **Development Economics**.
+I'm an assistant professor of Economics at Renmin University of China. I work in the fields of **Industrial Organization**, **Energy/Environmental Economics**, and **Development Economics**. I develop and estimate structural models to investigate how firms behave and operate under imperfect factor and product markets with a particular focus on the consequences of market power.
 
-I develop and estimate structural models to investigate how firms behave and operate under imperfect factor and product markets with a particular focus on the consequences of market power.
+I received my PhD in Economics from KU Leuven <a href="https://sites.google.com/view/ioleuven/home" target="_blank">(IO@Leuven)</a>. In the Spring of 2024, I was a visiting scholar at the Department of Economics at <a href="https://econ.duke.edu/" target="_blank">Duke University</a>.
 
-In the Spring of 2024, I was a visiting scholar at the Department of Economics at <a href="https://econ.duke.edu/" target="_blank">Duke University</a>.
+[comment]: <> (I'm a PhD candidate in Economics at KU Leuven <a href="https://sites.google.com/view/ioleuven/home" target="_blank">(IO@Leuven)</a>. I develop and estimate structural models to investigate how firms behave and operate under imperfect factor and product markets with a particular focus on the consequences of market power.)
 
 Find out more through my <a href="https://honghao-zheng.github.io/assets/files/CV_Honghao Zheng.pdf" target="_blank">CV</a> and <a href="https://honghao-zheng.github.io/assets/files/JMP.pdf" target="_blank">Job Market Paper</a>.
 
