@@ -4,7 +4,7 @@ layout: homepage
 
 ## Honghao Zheng
 
-I'm an assistant professor of Economics at Renmin University of China. I work in the fields of **Industrial Organization**, **Energy/Environmental Economics**, and **Development Economics**. 
+I'm an Assistant Professor of Economics at Renmin University of China. I work in the fields of **Industrial Organization**, **Energy/Environmental Economics**, and **Development Economics**. 
 
 I develop and estimate structural models to investigate how firms behave and operate under imperfect factor and product markets with a particular focus on the consequences of market power.
 
