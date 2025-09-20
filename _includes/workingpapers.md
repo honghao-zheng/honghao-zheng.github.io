@@ -18,7 +18,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px; margin: 0px 0px 0em;">
       <div class="title"><a href="{{ link.pdf }}" target="_blank">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em><b>{{ link.conference }}</b></em>
+      <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
     {% if link.abstract %} 
