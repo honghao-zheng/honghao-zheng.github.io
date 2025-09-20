@@ -26,7 +26,7 @@ main:
   - title: "Estimation of Lorenz Curves Based on Dummy Variable Regression"
     authors: with Zhengxin Wang and Hailun Zhang
     # conference_short: CVPR
-    conference: <strong>Economics Letters</strong>, 2019.
+    conference: <b>Economics Letters</b>, 2019.
     pdf: https://www.sciencedirect.com/science/article/pii/S0165176519300291
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -39,7 +39,7 @@ main:
   - title: "Measurement and Comparison of Export Sophistication of the New Energy Industry in 30 Countries During 2000-2015"
     authors: with Zhengxin Wang
     # conference_short: CVPR
-    conference: <strong>Renewable and Sustainable Energy Reviews</strong>, 2019.
+    conference: <b>Renewable and Sustainable Energy Reviews</b>, 2019.
     pdf: https://www.sciencedirect.com/science/article/pii/S1364032119301790
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -78,7 +78,7 @@ main:
   - title: "Decomposition of the Factors Influencing Export Fluctuation in China's New Energy Industry Based on a Constant Market Share Model"
     authors: with Tong Jin, Lingling Pei, and Zhengxin Wang
     # conference_short: CVPR
-    conference: <strong>Energy Policy</strong>, 2017.
+    conference: <b>Energy Policy</b>, 2017.
     pdf: https://www.sciencedirect.com/science/article/pii/S0301421517304044
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
