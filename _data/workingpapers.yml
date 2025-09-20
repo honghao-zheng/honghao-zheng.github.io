@@ -36,7 +36,8 @@ main:
     # notes: Working Paper
     # notes: New Draft Coming Soon!
     # image: ./assets/img/teaser_example.png
-    abstract: We study how economies with distinct development phases can preferably curtail emissions. We exploit unique variations of heterogeneous regulations—absolute- and intensity-type emission regulations in the context of carbon emission trading schemes (ETS) in China. Using an extensive array of rich data, we employ a difference-in-differences empirical strategy to examine the behaviors of all primary margins of adjustment to ETS from the demand to the supply side of energy. We find that, under imperfect markets and incomplete regulation, both types of ETS can induce carbon mitigation but with distinct tradeoffs. Aggregate impacts suggest overall annual reductions in energy consumption by 23% and 9% of yearly energy consumption in ETS with absolute- and intensity-type emission regulations, respectively.
+    abstract: We evaluate the effectiveness of the carbon emission trading scheme (ETS) pilots that China established in 2013-2014. The coexistence of two types of emissions regulation within a single energy market—with either an absolute or an intensity cap—provides a unique opportunity to study their differential effects. We employ a difference-in-differences
+estimation strategy at several units of analysis—provinces, industrial firms, and power plants—to examine the effects on several margins of adjustment, including energy consumption, industrial output, the energy input mix, electricity trade, and substitution between power generation sources. Both types of regulation induce carbon mitigation, but they come with distinct tradeoffs.
 
   - title: "Competition, Management, and Productivity: Evidence from the German Coal Mining Industry"
     authors: with <a href="https://sites.google.com/view/kaifischer/startseite" target="_blank">Kai Fischer</a>
