@@ -41,7 +41,7 @@ main:
   - title: "Competition, Management, and Productivity: Evidence from the German Coal Mining Industry"
     authors: with <a href="https://sites.google.com/view/kaifischer/startseite" target="_blank">Kai Fischer</a>
     # conference_short: MICCAI
-    conference: <a href="https://www.socialpolitik.de/en/reinhard-selten-preis" target="_blank">Reinhard Selten Award 2025</a> <a href="https://www.socialpolitik.de/en/reinhard-selten-award-winners" target="_blank">List</a>
+    # conference: <a href="https://www.socialpolitik.de/en/reinhard-selten-preis" target="_blank">Reinhard Selten Award 2025</a> <a href="https://www.socialpolitik.de/en/reinhard-selten-award-winners" target="_blank">List</a>
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
