@@ -36,8 +36,7 @@ main:
     # notes: Working Paper
     # notes: New Draft Coming Soon!
     # image: ./assets/img/teaser_example.png
-    abstract: We evaluate the effectiveness of the carbon emission trading scheme (ETS) pilots that China established in 2013-2014. The coexistence of two types of emissions regulation within a single energy market—with either an absolute or an intensity cap—provides a unique opportunity to study their differential effects. We employ a difference-in-differences
-estimation strategy at several units of analysis—provinces, industrial firms, and power plants—to examine the effects on several margins of adjustment, including energy consumption, industrial output, the energy input mix, electricity trade, and substitution between power generation sources. Both types of regulation induce carbon mitigation, but they come with distinct tradeoffs.
+    abstract: We evaluate the effectiveness of the carbon emission trading scheme (ETS) pilots that China established in 2013-2014. The coexistence of two types of emissions regulation within a single energy market—with either an absolute or an intensity cap—provides a unique opportunity to study their differential effects. We employ a difference-in-differences estimation strategy at several units of analysis—provinces, industrial firms, and power plants—to examine the effects on several margins of adjustment, including energy consumption, industrial output, the energy input mix, electricity trade, and substitution between power generation sources. Both types of regulation induce carbon mitigation, but they come with distinct tradeoffs.
 
   - title: "Competition, Management, and Productivity: Evidence from the German Coal Mining Industry"
     authors: with <a href="https://sites.google.com/view/kaifischer/startseite" target="_blank">Kai Fischer</a>
