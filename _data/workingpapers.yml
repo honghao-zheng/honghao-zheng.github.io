@@ -50,18 +50,18 @@ main:
     # notes: <a href="https://www.socialpolitik.de/en/reinhard-selten-preis" target="_blank"><font color="black">Reinhard Selten Award 2025</font></a>
     abstract: We examine the role of management practices as an underlying mechanism to increase establishment-level productivity under reduced import competition due to an industrial policy in the German coal mining industry. The policy forced the downstream German steel sector to buy coal and coke exclusively from domestic coal mines, effectively reducing import competition and ensuring stable demand for coal mines with coking plants. We employ a difference-in-differences empirical strategy to track coal mines with heterogeneous shock exposure by exploiting exogenous variation in coal mines' suitability in coke production. We show that the policy increased quantity-based productivity (TFPQ) by around 6% and decreased marginal costs by 5%. Also, the vertically integrated cokeries improve TFPQ by around 20%. However, the anti-competitive effect of the industrial policy led coal mines to raise markups instead of completely passing on the efficiency gains to consumers. Using rich employer-employee-matched data on managers, we show that management practices to reduce demand uncertainty and promote mechanization were essential in explaining these efficiency gains under reduced import competition.
 
-  - title: "Export Market Entry of Chinese SMEs: The Role of Scale Economies and Outstanding Trade Credit"
-    authors: with <a href="https://sites.google.com/view/jovb/home" target="_blank">Johannes Van Biesebroeck</a>
-    # conference_short: CVPR
-    conference: <b>International Journal of Industrial Organization</b>, Accepted.
-    # pdf: https://honghao-zheng.github.io/assets/files/ETS.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Working Paper
-    # notes: New Draft Coming Soon!
-    # image: ./assets/img/teaser_example.png
-    abstract: This paper uses data on Chinese manufacturing firms to evaluate the link between financial constraints, export market entry and productive efficiency. We show, first, that many small firms operate below minimum efficient scale at a point with increasing returns to scale and, second, that small firms selling only domestically extend the most trade credit to their clients, even though they are most financially constrained themselves. Entering the export market provides a way to expand output and reduce trade credit by taking advantage of more favorable contracting institutions and payment terms available only for exports. Firms with a higher outstanding balance of trade credit and with a more adverse institutional environment expand output most when they start exporting. It allows them to exploit scale economies and improve productivity. Our findings highlight trade credit as a previously overlooked mechanism behind the distribution of firm sizes and provide new insights into the learning-by-exporting literature.
+  # - title: "Export Market Entry of Chinese SMEs: The Role of Scale Economies and Outstanding Trade Credit"
+  #   authors: with <a href="https://sites.google.com/view/jovb/home" target="_blank">Johannes Van Biesebroeck</a>
+  #   # conference_short: CVPR
+  #   conference: <b>International Journal of Industrial Organization</b>, Accepted.
+  #   # pdf: https://honghao-zheng.github.io/assets/files/ETS.pdf
+  #   # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # notes: Working Paper
+  #   # notes: New Draft Coming Soon!
+  #   # image: ./assets/img/teaser_example.png
+  #   abstract: This paper uses data on Chinese manufacturing firms to evaluate the link between financial constraints, export market entry and productive efficiency. We show, first, that many small firms operate below minimum efficient scale at a point with increasing returns to scale and, second, that small firms selling only domestically extend the most trade credit to their clients, even though they are most financially constrained themselves. Entering the export market provides a way to expand output and reduce trade credit by taking advantage of more favorable contracting institutions and payment terms available only for exports. Firms with a higher outstanding balance of trade credit and with a more adverse institutional environment expand output most when they start exporting. It allows them to exploit scale economies and improve productivity. Our findings highlight trade credit as a previously overlooked mechanism behind the distribution of firm sizes and provide new insights into the learning-by-exporting literature.
 
 
   # - title: "Risk Aversion, Uncertainty, and FDI Entry"
