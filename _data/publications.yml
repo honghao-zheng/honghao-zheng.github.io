@@ -1,14 +1,28 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+  #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  #   conference_short: MICCAI
+  #   conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  #   pdf: https://arxiv.org/pdf/2306.00988.pdf
+  #   code: https://github.com/MrGiovanni/ContinualLearning
+  #   bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/teaser_example_2.png
+  #   notes: Early Accept
+
+  - title: "Export Market Entry of Chinese SMEs: The Role of Scale Economies and Outstanding Trade Credit"
+    authors: with <a href="https://sites.google.com/view/jovb/home" target="_blank">Johannes Van Biesebroeck</a>
+    # conference_short: CVPR
+    conference: <b>International Journal of Industrial Organization</b>, Accepted.
+    # pdf: https://honghao-zheng.github.io/assets/files/ETS.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Working Paper
+    # notes: New Draft Coming Soon!
+    # image: ./assets/img/teaser_example.png
+    abstract: This paper uses data on Chinese manufacturing firms to evaluate the link between financial constraints, export market entry and productive efficiency. We show, first, that many small firms operate below minimum efficient scale at a point with increasing returns to scale and, second, that small firms selling only domestically extend the most trade credit to their clients, even though they are most financially constrained themselves. Entering the export market provides a way to expand output and reduce trade credit by taking advantage of more favorable contracting institutions and payment terms available only for exports. Firms with a higher outstanding balance of trade credit and with a more adverse institutional environment expand output most when they start exporting. It allows them to exploit scale economies and improve productivity. Our findings highlight trade credit as a previously overlooked mechanism behind the distribution of firm sizes and provide new insights into the learning-by-exporting literature.
+
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
