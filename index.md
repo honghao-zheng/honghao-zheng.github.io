@@ -29,6 +29,8 @@ Find out more through my <a href="https://honghao-zheng.github.io/assets/files/C
 - **<a href="https://sites.google.com/site/frankverbo/home" target="_blank">Frank Verboven</a>** - frank.verboven@kuleuven.be
 - **<a href="https://sites.duke.edu/collardwexler/" target="_blank">Allan Collard-Wexler</a>** - allan.collard.wexler@duke.edu
 
+{% include_relative _includes/publications.md %}
+
 {% include_relative _includes/workingpapers.md %}
 
 {% include_relative _includes/workinprogress.md %}
