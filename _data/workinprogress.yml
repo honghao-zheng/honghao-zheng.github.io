@@ -70,7 +70,8 @@ main:
 
   # - title: "Financial Frictions, Skill Complementarity, and Labor Market Power: Evidence from Norway"
   # - title: "Financial Frictions, Skill Complementarity, and Labor Market Power"
-  - title: "Financial Frictions and Labor Market Power"
+  # - title: "Financial Frictions and Labor Market Power"
+  - title: "Collateral Constraints and Labor Market Power"
     authors: with <a href="https://www.norges-bank.no/en/topics/Research/economists/Cao-Jin/" target="_blank">Jin Cao</a> and <a href="https://sites.google.com/view/tong-zhao/homepage/" target="_blank">Tong Zhao</a>
     # conference_short: MICCAI
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
@@ -79,7 +80,8 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
     # notes: Extended Abstract
-    abstract: We estimate the impact of credit access on labor market power considering capital-skill complementarity, by investigating an intangible collateral reform in Norway. We take advantage of a wide range of novel Norwegian data regarding household tax returns, employer-employee relationships, firm-bank loan information, and firm balance sheets, along with a production function approach, to estimate heterogeneous labor market power over high- and low-skilled labor. The idea is to understand how imperfections in capital and labor input markets are related.
+    # abstract: We estimate the impact of credit access on labor market power considering capital-skill complementarity, by investigating an intangible collateral reform in Norway. We take advantage of a wide range of novel Norwegian data regarding household tax returns, employer-employee relationships, firm-bank loan information, and firm balance sheets, along with a production function approach, to estimate heterogeneous labor market power over high- and low-skilled labor. The idea is to understand how imperfections in capital and labor input markets are related.
+    abstract: We investigate the relationship between firms’ collateral constraints and their labor market power. Using unique Norwegian microdata and a production approach, we measure firm market power in both labor and product markets. Our results show that relaxing firms' collateral constraints reduces their labor market power over high-skilled labor. Our work helps to understand whether and how imperfections in credit and labor input markets are related.
 
 
   - title: "Trade Dynamics in the Ownership Network"
