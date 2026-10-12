@@ -46,7 +46,7 @@ main:
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
-    # notes: Draft Available Upon Request!
+    notes: New Draft!
     # notes: <a href="https://www.socialpolitik.de/en/reinhard-selten-preis" target="_blank"><font color="black">Reinhard Selten Award 2025</font></a>
     abstract: Policies designed to protect domestic industries are resurging worldwide. We study a German policy that required steel producers to source coking coal and coke exclusively from domestic mines, effectively reducing import competition for coal mines. Using a difference-in-differences design that exploits differences in mines' pre-policy exposure to coke production, closely tied to the geological suitability of their coal deposits for coking, we find that the policy increased quantity-based total factor productivity (TFPQ) by 4-5%, raised markups by 13-14%, and reduced marginal costs by 3-4%. Using matched manager-mine data, we rationalize the efficiency gains through a managerial channel. More-exposed mines recruited more STEM-trained managers and managers with higher estimated ability. Such managerial hirings were followed by increased mechanization, investment, and TFPQ as well as lower marginal costs.
 
